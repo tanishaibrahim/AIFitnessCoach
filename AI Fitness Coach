@@ -1,0 +1,1 @@
+AI Fitness Coach is a Streamlit-based Python application powered by the Gemini API. It offers a personalized fitness experience by calculating your BMI, recommending workout and diet plans based on your fitness goals, estimating calories burned, and suggesting YouTube channels for guided workout sessions—all through an intuitive and interactive interface.
